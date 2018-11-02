@@ -1,0 +1,10 @@
+/* Define red for body text and big 24px fonts everywhere */
+html, body, #root {
+  height: 100%;
+  color: red;
+  font-size: 24px;
+}
+
+body {
+  margin: 0;
+}
